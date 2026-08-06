@@ -1,2 +1,0 @@
-# menu
-Sanjo Sushi Menus
